@@ -97,12 +97,6 @@ a {
   color: inherit;
 }
 
-label{
-  font-size: var(--fs-xl);
-  font-weight: bold;
-  display: block;
-}
-
 section{
   border: 2px solid red;
 }
